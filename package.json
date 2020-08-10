@@ -1,0 +1,10 @@
+{
+  "name": "appconfig_client",
+  "version": "0.0.1",
+  "description": "A Python common library of ZhuChen",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "readme": "README.md"
+}
